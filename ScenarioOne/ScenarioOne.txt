@@ -1,0 +1,17 @@
+
+You have two entities, one of them student, one of them teacher.
+These entities have a name,a surname, and a national identity.
+Students have a grade.
+Teachers have a salary.
+When a teacher logs into the system, they only log into the database.
+When a student logs into the system, he logs the database and the SMS.
+Solve this scenario using inheritance and polymorphism.
+
+===============TURKÝSH TRANSLATÝON====================
+
+Öðrenci ve öðretmen nesneleri var.
+Bu nesnelerin isim,soyisim,Tcsi ortak.
+Öðrencinin aldýðý notlar var. 
+öðretmenin maaþ bilgisi var.
+öðretmen sisteme giriþ yaptýðý zaman yalnýzca database'e loglanýyor.
+Öðrenci sisteme giriþ yaptýðý zaman hem database loglanýyor hemde sms gidiyor.
